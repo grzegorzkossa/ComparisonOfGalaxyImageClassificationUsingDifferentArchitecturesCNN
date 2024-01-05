@@ -1,1 +1,5 @@
-# ComparisonOfGalaxyImageClassificationUsingDifferentArchitecturesCVV
+# Porównanie klasyfikacji obrazów galaktyk z wykorzystaniem różnych architektur CVV
+
+Postęp techniczny powoduje, że nasza wiedza astronomiczna, bardzo mocno się poprawia. Jest to spowodowane rozwojem nowych sposobów eksploracji kosmosu oraz naszej ciągłej fascynacji kosmosem. Działania te tworzą jednak nowe problemy. Coraz lepsze teleskopy naziemne i kosmiczne generują coraz więcej danych, których nie ma kto analizować. Dlatego coraz częściej do analizy zaprzęga się komputery. 
+
+W tym opracowaniu zajmiemy się jednym ze sposobów analizy napływających danych, czyli klasyfikacją. Rozwój uczenia maszynowego, a zwłaszcza uczenia głębokiego bardzo mocno wpłynął na poprawienie wydajności tej dziedziny. Obecnie klasyfikacja obrazów rozwija się bardzo szybko. Dlatego świat astronomiczny zaczął również wykorzystywać te narzędzia do analizy zdjęć.  
