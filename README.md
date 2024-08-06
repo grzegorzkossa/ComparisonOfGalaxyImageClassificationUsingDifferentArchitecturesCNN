@@ -1,4 +1,4 @@
-# Porównanie klasyfikacji obrazów galaktyk z wykorzystaniem różnych architektur CVV
+# Porównanie klasyfikacji obrazów galaktyk z wykorzystaniem różnych architektur CNN
 ## Wprowadzenie
 Rozwój technologii spowodował, że w wielu dziedzinach życia, to komputery są nieodzownym elementem pracy. Tak samo jest z astronomią, gdzie obecnie dawne sposoby obserwacji wszechświata już nie wystarczają i jedynym sposobem dalszego poznawania otaczających nas gwiazd i galaktyk jest wykorzystanie technologii. Dzięki temu obserwacje wykonane na drugim końcu świata po zakończonej pracy i wstępnym przetworzeniu są udostępniane wszystkim zainteresowanym. Również osobom, które nie są związane z astronomią zawodowo, ale tak jak ja interesują się tą dzienną nauki, na własną rękę pogłębiając swoją wiedzę.
 
